@@ -10,3 +10,6 @@ All solved problems organized by pattern/category.
 
 ## Binary Search
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
+
+## Uncategorized
+- [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
