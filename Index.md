@@ -12,4 +12,5 @@ All solved problems organized by pattern/category.
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 
 ## Uncategorized
+- [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
