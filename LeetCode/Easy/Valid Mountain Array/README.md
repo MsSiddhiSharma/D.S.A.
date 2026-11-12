@@ -9,7 +9,7 @@
 | **Tags** | Array |
 | **Link** | [View Problem](https://leetcode.com/problems/valid-mountain-array/) |
 | **Runtime** | 2 ms |
-| **Memory** | 47.1 MB |
+| **Memory** | 47 MB |
 
 ## Problem Description
 
